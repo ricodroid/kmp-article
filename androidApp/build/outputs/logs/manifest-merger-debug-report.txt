@@ -1,0 +1,406 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [:shared] /Users/riko/projects/kmp-template/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.1] /Users/riko/.gradle/caches/transforms-3/249ede1207a95d7fd96153bc4d7f4028/transformed/navigation-common-2.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.1] /Users/riko/.gradle/caches/transforms-3/28b3a0cce84dbeea9c7447adabf29baf/transformed/navigation-runtime-2.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.1] /Users/riko/.gradle/caches/transforms-3/f2a96ca3a08f7531062cda08cd459dd1/transformed/navigation-common-ktx-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.1] /Users/riko/.gradle/caches/transforms-3/90a7a144a8f0ed1cfc25388f04963019/transformed/navigation-runtime-ktx-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.1] /Users/riko/.gradle/caches/transforms-3/828060ade39f2db4d8309c8ed614ff85/transformed/navigation-compose-2.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-swiperefresh:0.24.13-rc] /Users/riko/.gradle/caches/transforms-3/adef2db4f94c6b8e5b3405c621fc9785/transformed/accompanist-swiperefresh-0.24.13-rc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/riko/.gradle/caches/transforms-3/c498e5c3af85ef067c3cfc0252459ed1/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/riko/.gradle/caches/transforms-3/538dd2b7d323e9a3ad3d868d9d2c6de4/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/riko/.gradle/caches/transforms-3/e77daba6eecc3155677eab1ac0395fa3/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/riko/.gradle/caches/transforms-3/f801b1f98fb3862fe511c60cd492d2bd/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/riko/.gradle/caches/transforms-3/25119a77d053a12227f60ddedff43b21/transformed/coil-compose-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/riko/.gradle/caches/transforms-3/a7ec77eaa999b8a442312174e66aa1c2/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/5dcdf822866ae83c492d701d0a0bf9d2/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/49f82e83e960c9ebe6d8063ddcf2a670/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/d06ca5e09779f6974675f5675605e85a/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/f147b0bf1c109cbcb31e47027cbee16b/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/7adb8410bc82b82cf765b32988ac9e0c/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1d2c307c82f5dc9f8bae7b99b3f4e816/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/905f0de0aae7afa79ce5d5704b58ecb4/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/384dfac18d66dfa700792bd30e8fb70d/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/b82050c0cc53eb7022265afe45f33524/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/08901370a6bd7862accd1b55855b5d33/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/87334b90d6d4428b6cd674441487835f/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/riko/.gradle/caches/transforms-3/ce9859407edbf6c0ad8599def53fffb8/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.3] /Users/riko/.gradle/caches/transforms-3/aba2ff1f8b74c5341eb18ae69637d071/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.4.3] /Users/riko/.gradle/caches/transforms-3/3658cc65388995c32117063750a964dd/transformed/koin-android-3.4.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /Users/riko/.gradle/caches/transforms-3/f1b20bcd3d30325c15b587f6634c1644/transformed/fragment-ktx-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:2.5.0] /Users/riko/.gradle/caches/transforms-3/d86ca553087e20166ef980f5fd292ab3/transformed/coil-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/riko/.gradle/caches/transforms-3/ec6cb15570543768e99908079f1a1ca1/transformed/coil-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/riko/.gradle/caches/transforms-3/a2d823284bf849dc980d85f9608ea540/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/riko/.gradle/caches/transforms-3/5aa985dbda55b8f8e4c4122eb24462a8/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/riko/.gradle/caches/transforms-3/98acbca73b737ea5f943355ee1aa1cb8/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.2] /Users/riko/.gradle/caches/transforms-3/205e68aea9576ddfb745be204aaa3edd/transformed/activity-1.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] /Users/riko/.gradle/caches/transforms-3/5ce423900dc46e7f4b1fc82e8970fe12/transformed/activity-ktx-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/riko/.gradle/caches/transforms-3/01e473ffe877f4974907382e5bd1bf16/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/riko/.gradle/caches/transforms-3/84a96f70eebb8df554c2eff777b6cc31/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/riko/.gradle/caches/transforms-3/d76383db1aed94adf2c6ecd3bd25a1a6/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] /Users/riko/.gradle/caches/transforms-3/5445e2ef2299289c0558967747004519/transformed/lifecycle-livedata-2.8.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] /Users/riko/.gradle/caches/transforms-3/7353fc183cd17448b3f9a6bb2315b7f4/transformed/lifecycle-livedata-core-2.8.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/riko/.gradle/caches/transforms-3/40c1bcf5fb180932f4ebd21d28afc67f/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/riko/.gradle/caches/transforms-3/dfb2825d5dfdaead1172112da39cd91c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/riko/.gradle/caches/transforms-3/d6cba58f129e54e195108bca44c14e03/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/riko/.gradle/caches/transforms-3/b24f6ea99e961ef10a7cf4eb975c8942/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/riko/.gradle/caches/transforms-3/2f5deb63453c5a63f430358c57a4df3f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/riko/.gradle/caches/transforms-3/c74bd7233afede8f2f2d05c66c870248/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/riko/.gradle/caches/transforms-3/016b9d9d7a1980720117db3fa4d30cbf/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/riko/.gradle/caches/transforms-3/5a904b6e9e27cf5396fe56a543d75778/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/riko/.gradle/caches/transforms-3/4e8076dc96311bbe7383693b6e872e25/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/ec2ebda4a6f7c3c2d67d652c4d32d79a/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/de1dccde357f6e3e20c25f2e9ecf52d8/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/2375101116010c46eb5b9ce2506ae6e9/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] /Users/riko/.gradle/caches/transforms-3/3a35aca508f18a96158bcf2fefaabba9/transformed/lifecycle-viewmodel-savedstate-2.8.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/riko/.gradle/caches/transforms-3/a1363d1965b31740d69388a8ba36d243/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] /Users/riko/.gradle/caches/transforms-3/b4ccf453b5600cc02df97c25120d79af/transformed/lifecycle-viewmodel-2.8.6/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/95cf7898edf4f7aae3e8a8def3048b53/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] /Users/riko/.gradle/caches/transforms-3/37a630c8b7cf5f16fbc68e7df622d03c/transformed/lifecycle-livedata-core-ktx-2.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] /Users/riko/.gradle/caches/transforms-3/881a049417b235858ee442db19e69aef/transformed/lifecycle-viewmodel-ktx-2.8.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/8a3dcb229823140204cc1d396aa52071/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/eb1fcdd4f25587809f4ba60c5a99becc/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.2] /Users/riko/.gradle/caches/transforms-3/5bd56a847a662983fda9840c313affd0/transformed/activity-compose-1.9.2/AndroidManifest.xml:2:1-7:12
+MERGED from [app.cash.sqldelight:android-driver:2.0.0] /Users/riko/.gradle/caches/transforms-3/e66dc097065abb8fcb238101235f5be4/transformed/android-driver-2.0.0-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/fbec6edaaace45cc2bdfe2bd5de34257/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/158702c10b483b6e10e452feaf0df7fd/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/riko/.gradle/caches/transforms-3/e87ff031ff40a8ce77f0bf07d781d980/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/riko/.gradle/caches/transforms-3/bae7d25de3aa905fa7b44d2207c12dc4/transformed/sqlite-2.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/riko/.gradle/caches/transforms-3/ef09dfd204f218ac7deaa2810dea09e2/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/riko/.gradle/caches/transforms-3/f209465a1b87afe9a3f3011354c9a38e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/riko/.gradle/caches/transforms-3/3d0b47b336e06a386937d042da3e9cdd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/riko/.gradle/caches/transforms-3/ae810d7e10d664b983cba9b6d3c36eba/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/riko/.gradle/caches/transforms-3/35288367a56caceb52b9400e0be257ec/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/riko/.gradle/caches/transforms-3/6e5136378437cfd5d8767ee0f2908780/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/riko/.gradle/caches/transforms-3/1586093cf6eb3ac25db1482c4044a2b8/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:6:5-19:19
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:6:5-19:19
+MERGED from [io.insert-koin:koin-android:3.4.3] /Users/riko/.gradle/caches/transforms-3/3658cc65388995c32117063750a964dd/transformed/koin-android-3.4.3/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.4.3] /Users/riko/.gradle/caches/transforms-3/3658cc65388995c32117063750a964dd/transformed/koin-android-3.4.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/riko/.gradle/caches/transforms-3/f209465a1b87afe9a3f3011354c9a38e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/riko/.gradle/caches/transforms-3/f209465a1b87afe9a3f3011354c9a38e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:10:9-40
+	android:name
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:7:9-74
+activity#com.ricodroid.kmp.articleapp.android.MainActivity
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:12:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/riko/projects/kmp-template/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/riko/projects/kmp-template/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.1] /Users/riko/.gradle/caches/transforms-3/249ede1207a95d7fd96153bc4d7f4028/transformed/navigation-common-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.1] /Users/riko/.gradle/caches/transforms-3/249ede1207a95d7fd96153bc4d7f4028/transformed/navigation-common-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.1] /Users/riko/.gradle/caches/transforms-3/28b3a0cce84dbeea9c7447adabf29baf/transformed/navigation-runtime-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.1] /Users/riko/.gradle/caches/transforms-3/28b3a0cce84dbeea9c7447adabf29baf/transformed/navigation-runtime-2.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.1] /Users/riko/.gradle/caches/transforms-3/f2a96ca3a08f7531062cda08cd459dd1/transformed/navigation-common-ktx-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.1] /Users/riko/.gradle/caches/transforms-3/f2a96ca3a08f7531062cda08cd459dd1/transformed/navigation-common-ktx-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.1] /Users/riko/.gradle/caches/transforms-3/90a7a144a8f0ed1cfc25388f04963019/transformed/navigation-runtime-ktx-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.1] /Users/riko/.gradle/caches/transforms-3/90a7a144a8f0ed1cfc25388f04963019/transformed/navigation-runtime-ktx-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.1] /Users/riko/.gradle/caches/transforms-3/828060ade39f2db4d8309c8ed614ff85/transformed/navigation-compose-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.1] /Users/riko/.gradle/caches/transforms-3/828060ade39f2db4d8309c8ed614ff85/transformed/navigation-compose-2.8.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-swiperefresh:0.24.13-rc] /Users/riko/.gradle/caches/transforms-3/adef2db4f94c6b8e5b3405c621fc9785/transformed/accompanist-swiperefresh-0.24.13-rc/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-swiperefresh:0.24.13-rc] /Users/riko/.gradle/caches/transforms-3/adef2db4f94c6b8e5b3405c621fc9785/transformed/accompanist-swiperefresh-0.24.13-rc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/riko/.gradle/caches/transforms-3/c498e5c3af85ef067c3cfc0252459ed1/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/riko/.gradle/caches/transforms-3/c498e5c3af85ef067c3cfc0252459ed1/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/riko/.gradle/caches/transforms-3/538dd2b7d323e9a3ad3d868d9d2c6de4/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] /Users/riko/.gradle/caches/transforms-3/538dd2b7d323e9a3ad3d868d9d2c6de4/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/riko/.gradle/caches/transforms-3/e77daba6eecc3155677eab1ac0395fa3/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] /Users/riko/.gradle/caches/transforms-3/e77daba6eecc3155677eab1ac0395fa3/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/riko/.gradle/caches/transforms-3/f801b1f98fb3862fe511c60cd492d2bd/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/riko/.gradle/caches/transforms-3/f801b1f98fb3862fe511c60cd492d2bd/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/riko/.gradle/caches/transforms-3/25119a77d053a12227f60ddedff43b21/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/riko/.gradle/caches/transforms-3/25119a77d053a12227f60ddedff43b21/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/riko/.gradle/caches/transforms-3/a7ec77eaa999b8a442312174e66aa1c2/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/riko/.gradle/caches/transforms-3/a7ec77eaa999b8a442312174e66aa1c2/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/5dcdf822866ae83c492d701d0a0bf9d2/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/5dcdf822866ae83c492d701d0a0bf9d2/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/49f82e83e960c9ebe6d8063ddcf2a670/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/49f82e83e960c9ebe6d8063ddcf2a670/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/d06ca5e09779f6974675f5675605e85a/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/d06ca5e09779f6974675f5675605e85a/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/f147b0bf1c109cbcb31e47027cbee16b/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/f147b0bf1c109cbcb31e47027cbee16b/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/7adb8410bc82b82cf765b32988ac9e0c/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/7adb8410bc82b82cf765b32988ac9e0c/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1d2c307c82f5dc9f8bae7b99b3f4e816/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1d2c307c82f5dc9f8bae7b99b3f4e816/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/905f0de0aae7afa79ce5d5704b58ecb4/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/905f0de0aae7afa79ce5d5704b58ecb4/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/384dfac18d66dfa700792bd30e8fb70d/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/384dfac18d66dfa700792bd30e8fb70d/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/b82050c0cc53eb7022265afe45f33524/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/b82050c0cc53eb7022265afe45f33524/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/08901370a6bd7862accd1b55855b5d33/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/08901370a6bd7862accd1b55855b5d33/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/87334b90d6d4428b6cd674441487835f/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/87334b90d6d4428b6cd674441487835f/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/riko/.gradle/caches/transforms-3/ce9859407edbf6c0ad8599def53fffb8/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/riko/.gradle/caches/transforms-3/ce9859407edbf6c0ad8599def53fffb8/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.3] /Users/riko/.gradle/caches/transforms-3/aba2ff1f8b74c5341eb18ae69637d071/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-compose:3.4.3] /Users/riko/.gradle/caches/transforms-3/aba2ff1f8b74c5341eb18ae69637d071/transformed/koin-androidx-compose-3.4.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.4.3] /Users/riko/.gradle/caches/transforms-3/3658cc65388995c32117063750a964dd/transformed/koin-android-3.4.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.4.3] /Users/riko/.gradle/caches/transforms-3/3658cc65388995c32117063750a964dd/transformed/koin-android-3.4.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /Users/riko/.gradle/caches/transforms-3/f1b20bcd3d30325c15b587f6634c1644/transformed/fragment-ktx-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /Users/riko/.gradle/caches/transforms-3/f1b20bcd3d30325c15b587f6634c1644/transformed/fragment-ktx-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:2.5.0] /Users/riko/.gradle/caches/transforms-3/d86ca553087e20166ef980f5fd292ab3/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] /Users/riko/.gradle/caches/transforms-3/d86ca553087e20166ef980f5fd292ab3/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/riko/.gradle/caches/transforms-3/ec6cb15570543768e99908079f1a1ca1/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] /Users/riko/.gradle/caches/transforms-3/ec6cb15570543768e99908079f1a1ca1/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/riko/.gradle/caches/transforms-3/a2d823284bf849dc980d85f9608ea540/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/riko/.gradle/caches/transforms-3/a2d823284bf849dc980d85f9608ea540/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/riko/.gradle/caches/transforms-3/5aa985dbda55b8f8e4c4122eb24462a8/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/riko/.gradle/caches/transforms-3/5aa985dbda55b8f8e4c4122eb24462a8/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/riko/.gradle/caches/transforms-3/98acbca73b737ea5f943355ee1aa1cb8/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/riko/.gradle/caches/transforms-3/98acbca73b737ea5f943355ee1aa1cb8/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.2] /Users/riko/.gradle/caches/transforms-3/205e68aea9576ddfb745be204aaa3edd/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /Users/riko/.gradle/caches/transforms-3/205e68aea9576ddfb745be204aaa3edd/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /Users/riko/.gradle/caches/transforms-3/5ce423900dc46e7f4b1fc82e8970fe12/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] /Users/riko/.gradle/caches/transforms-3/5ce423900dc46e7f4b1fc82e8970fe12/transformed/activity-ktx-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/riko/.gradle/caches/transforms-3/01e473ffe877f4974907382e5bd1bf16/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/riko/.gradle/caches/transforms-3/01e473ffe877f4974907382e5bd1bf16/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/riko/.gradle/caches/transforms-3/84a96f70eebb8df554c2eff777b6cc31/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/riko/.gradle/caches/transforms-3/84a96f70eebb8df554c2eff777b6cc31/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/riko/.gradle/caches/transforms-3/d76383db1aed94adf2c6ecd3bd25a1a6/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/riko/.gradle/caches/transforms-3/d76383db1aed94adf2c6ecd3bd25a1a6/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] /Users/riko/.gradle/caches/transforms-3/5445e2ef2299289c0558967747004519/transformed/lifecycle-livedata-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.6] /Users/riko/.gradle/caches/transforms-3/5445e2ef2299289c0558967747004519/transformed/lifecycle-livedata-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] /Users/riko/.gradle/caches/transforms-3/7353fc183cd17448b3f9a6bb2315b7f4/transformed/lifecycle-livedata-core-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.6] /Users/riko/.gradle/caches/transforms-3/7353fc183cd17448b3f9a6bb2315b7f4/transformed/lifecycle-livedata-core-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/riko/.gradle/caches/transforms-3/40c1bcf5fb180932f4ebd21d28afc67f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/riko/.gradle/caches/transforms-3/40c1bcf5fb180932f4ebd21d28afc67f/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/riko/.gradle/caches/transforms-3/dfb2825d5dfdaead1172112da39cd91c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/riko/.gradle/caches/transforms-3/dfb2825d5dfdaead1172112da39cd91c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/riko/.gradle/caches/transforms-3/d6cba58f129e54e195108bca44c14e03/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/riko/.gradle/caches/transforms-3/d6cba58f129e54e195108bca44c14e03/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/riko/.gradle/caches/transforms-3/b24f6ea99e961ef10a7cf4eb975c8942/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/riko/.gradle/caches/transforms-3/b24f6ea99e961ef10a7cf4eb975c8942/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/riko/.gradle/caches/transforms-3/2f5deb63453c5a63f430358c57a4df3f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/riko/.gradle/caches/transforms-3/2f5deb63453c5a63f430358c57a4df3f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/riko/.gradle/caches/transforms-3/c74bd7233afede8f2f2d05c66c870248/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/riko/.gradle/caches/transforms-3/c74bd7233afede8f2f2d05c66c870248/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/riko/.gradle/caches/transforms-3/016b9d9d7a1980720117db3fa4d30cbf/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/riko/.gradle/caches/transforms-3/016b9d9d7a1980720117db3fa4d30cbf/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/riko/.gradle/caches/transforms-3/5a904b6e9e27cf5396fe56a543d75778/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/riko/.gradle/caches/transforms-3/5a904b6e9e27cf5396fe56a543d75778/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/riko/.gradle/caches/transforms-3/4e8076dc96311bbe7383693b6e872e25/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/riko/.gradle/caches/transforms-3/4e8076dc96311bbe7383693b6e872e25/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/ec2ebda4a6f7c3c2d67d652c4d32d79a/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/ec2ebda4a6f7c3c2d67d652c4d32d79a/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/de1dccde357f6e3e20c25f2e9ecf52d8/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/de1dccde357f6e3e20c25f2e9ecf52d8/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/2375101116010c46eb5b9ce2506ae6e9/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/2375101116010c46eb5b9ce2506ae6e9/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] /Users/riko/.gradle/caches/transforms-3/3a35aca508f18a96158bcf2fefaabba9/transformed/lifecycle-viewmodel-savedstate-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.6] /Users/riko/.gradle/caches/transforms-3/3a35aca508f18a96158bcf2fefaabba9/transformed/lifecycle-viewmodel-savedstate-2.8.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/riko/.gradle/caches/transforms-3/a1363d1965b31740d69388a8ba36d243/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/riko/.gradle/caches/transforms-3/a1363d1965b31740d69388a8ba36d243/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] /Users/riko/.gradle/caches/transforms-3/b4ccf453b5600cc02df97c25120d79af/transformed/lifecycle-viewmodel-2.8.6/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.6] /Users/riko/.gradle/caches/transforms-3/b4ccf453b5600cc02df97c25120d79af/transformed/lifecycle-viewmodel-2.8.6/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/95cf7898edf4f7aae3e8a8def3048b53/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/95cf7898edf4f7aae3e8a8def3048b53/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] /Users/riko/.gradle/caches/transforms-3/37a630c8b7cf5f16fbc68e7df622d03c/transformed/lifecycle-livedata-core-ktx-2.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.6] /Users/riko/.gradle/caches/transforms-3/37a630c8b7cf5f16fbc68e7df622d03c/transformed/lifecycle-livedata-core-ktx-2.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] /Users/riko/.gradle/caches/transforms-3/881a049417b235858ee442db19e69aef/transformed/lifecycle-viewmodel-ktx-2.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.6] /Users/riko/.gradle/caches/transforms-3/881a049417b235858ee442db19e69aef/transformed/lifecycle-viewmodel-ktx-2.8.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/8a3dcb229823140204cc1d396aa52071/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.6] /Users/riko/.gradle/caches/transforms-3/8a3dcb229823140204cc1d396aa52071/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/eb1fcdd4f25587809f4ba60c5a99becc/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/eb1fcdd4f25587809f4ba60c5a99becc/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /Users/riko/.gradle/caches/transforms-3/5bd56a847a662983fda9840c313affd0/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] /Users/riko/.gradle/caches/transforms-3/5bd56a847a662983fda9840c313affd0/transformed/activity-compose-1.9.2/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.0] /Users/riko/.gradle/caches/transforms-3/e66dc097065abb8fcb238101235f5be4/transformed/android-driver-2.0.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [app.cash.sqldelight:android-driver:2.0.0] /Users/riko/.gradle/caches/transforms-3/e66dc097065abb8fcb238101235f5be4/transformed/android-driver-2.0.0-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/fbec6edaaace45cc2bdfe2bd5de34257/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/fbec6edaaace45cc2bdfe2bd5de34257/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/158702c10b483b6e10e452feaf0df7fd/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/158702c10b483b6e10e452feaf0df7fd/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/riko/.gradle/caches/transforms-3/e87ff031ff40a8ce77f0bf07d781d980/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] /Users/riko/.gradle/caches/transforms-3/e87ff031ff40a8ce77f0bf07d781d980/transformed/sqlite-framework-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/riko/.gradle/caches/transforms-3/bae7d25de3aa905fa7b44d2207c12dc4/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] /Users/riko/.gradle/caches/transforms-3/bae7d25de3aa905fa7b44d2207c12dc4/transformed/sqlite-2.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/riko/.gradle/caches/transforms-3/ef09dfd204f218ac7deaa2810dea09e2/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/riko/.gradle/caches/transforms-3/ef09dfd204f218ac7deaa2810dea09e2/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/riko/.gradle/caches/transforms-3/f209465a1b87afe9a3f3011354c9a38e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/riko/.gradle/caches/transforms-3/f209465a1b87afe9a3f3011354c9a38e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/riko/.gradle/caches/transforms-3/3d0b47b336e06a386937d042da3e9cdd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/riko/.gradle/caches/transforms-3/3d0b47b336e06a386937d042da3e9cdd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/riko/.gradle/caches/transforms-3/ae810d7e10d664b983cba9b6d3c36eba/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/riko/.gradle/caches/transforms-3/ae810d7e10d664b983cba9b6d3c36eba/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/riko/.gradle/caches/transforms-3/35288367a56caceb52b9400e0be257ec/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/riko/.gradle/caches/transforms-3/35288367a56caceb52b9400e0be257ec/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/riko/.gradle/caches/transforms-3/6e5136378437cfd5d8767ee0f2908780/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/riko/.gradle/caches/transforms-3/6e5136378437cfd5d8767ee0f2908780/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/riko/.gradle/caches/transforms-3/1586093cf6eb3ac25db1482c4044a2b8/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/riko/.gradle/caches/transforms-3/1586093cf6eb3ac25db1482c4044a2b8/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/riko/projects/kmp-template/androidApp/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/riko/.gradle/caches/transforms-3/8aa0a87dffab09779cd0fb1f4e630db4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/riko/.gradle/caches/transforms-3/f8a8756a5490690f591fd1acd6f2c9e6/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.6] /Users/riko/.gradle/caches/transforms-3/2ea75794e9010f0a5e2a094bcdac60ea/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.ricodroid.kmp.articleapp.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.ricodroid.kmp.articleapp.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/riko/.gradle/caches/transforms-3/164174a76743577938a3b65b1538d442/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] /Users/riko/.gradle/caches/transforms-3/1c3933a8c5162033048de68c941f656a/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/riko/.gradle/caches/transforms-3/ffde9a36a0c10d04a2209c983c6a77de/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

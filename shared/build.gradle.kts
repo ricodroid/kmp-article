@@ -66,7 +66,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.petros.efthymiou.dailypulse"
+    namespace = "com.ricodroid.kmp.articleapp"
     compileSdk = 34
     defaultConfig {
         minSdk = 24
@@ -76,7 +76,7 @@ android {
 sqldelight {
     databases {
         create(name = "DailyPulseDatabase") {
-            packageName.set("petros.efthymiou.dailypulse.db")
+            packageName.set("ricodroid.kmp.dailypulse.db")
         }
     }
 }

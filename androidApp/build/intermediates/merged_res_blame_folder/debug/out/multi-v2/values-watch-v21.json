@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C.android.androidApp-mergeDebugResources-59:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/riko/.gradle/caches/transforms-3/5aa985dbda55b8f8e4c4122eb24462a8/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
